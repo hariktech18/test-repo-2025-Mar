@@ -19,4 +19,9 @@ shdvsghufuyd
 
 dsjhdsuydfgdsufgydsfdf
 
+<<<<<<< Updated upstream
 hey puka
+=======
+ksjdfhbkjsadbfkjsbdjk
+sjkdfhkjsdifisdn12345677
+>>>>>>> Stashed changes
